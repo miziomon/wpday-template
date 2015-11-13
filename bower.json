@@ -1,0 +1,20 @@
+{
+    "name": "WPDay",
+    "version": "0.0.1",
+    "authors": [
+        "Mavida <info@mavida.com>"
+    ],
+    "license": "MIT",
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "bootstrap": "3.3.*",
+        "font-awesome": "4.4.*",
+        
+    }
+}
