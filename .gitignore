@@ -1,0 +1,92 @@
+# Numerous always-ignore extensions
+*.svn
+*.log
+*.zip
+*.7z
+*.rar
+*.gz
+*.bzip
+*.bz2
+*.cab
+*.iso
+*.tar
+*.tar.gz
+*.diff
+*.err
+*.sass-cache
+*.local.php
+*~
+
+# Bower, Grunt, Compass, Wordpress specific files
+#Gruntfile.js
+#package.json
+#config.rb
+#composer.json
+
+wp-config-local.php
+advanced-cache.php
+wp-cache-config.php
+sitemap.xml
+sitemap.xml.gz
+composer.phar
+composer.lock
+### wp-golive.php
+
+# Dreamweaver added files
+_notes
+dwsync.xml
+
+# Hidden Folders to ignore
+.hg
+.svn
+.CVS
+.idea
+
+# OSX 
+.DS_Store
+.AppleDouble
+.LSOverride
+.AppleDB
+.AppleDesktop
+.apdisk
+Network Trash Folder
+Temporary Items
+*.cab
+*.msi
+*.msm
+*.msp
+
+### Windows ###
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+#package management formats
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+
+
+
+### NetBeans ###
+/nbproject
+
+### SublimeText ###
+*.sublime-workspace
+*.sublime-project
+
+
+node_modules/
+vendor/
+bin/
+_old/
+_doc/
+cron/
+temp/

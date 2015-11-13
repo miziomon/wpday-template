@@ -1,1 +1,1 @@
-# wpday-template
+# WPDay WordPress Template
