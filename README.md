@@ -1,0 +1,1 @@
+# wpday-template
