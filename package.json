@@ -1,0 +1,19 @@
+{
+  "name": "wpday",
+  "version": "1.0.0",
+  "description": "WpDay WordPress Template",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miziomon/wpday-template.git"
+  },
+  "author": "miziomon",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miziomon/wpday-template/issues"
+  },
+  "homepage": "https://github.com/miziomon/wpday-template#readme"
+}
